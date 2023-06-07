@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">p2_CM</string>
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+    <string name="home">Home</string>
+    <string name="estudiantes">Estudiantes</string>
+    <string name="trabajadores">Trabajadores</string>
+    <string name="title_e">Estudiantes de Hogwarts</string>
+    <string name="title_p">Personal de Hogwarts</string>
+    <string name="inicio">  Bienvenido</string>
+    <string name="nombre_e">Nombre del personaje: </string>
+    <string name="actor_e">Actor que lo interpreta: </string>
+    <string name="house_e">Casa: </string>
+    <string name="especie_e">Especie: </string>
+    <string name="genero_e">Genero: </string>
+    <string name="patronu">Patronus:</string>
+    <string name="ancestry">Ancestro:</string>
+    <string name="dateOfBirth">Fecha de nacimiento</string>
+    <string name="wand">Varita mágica:</string>
+    <string name="madera">Madera:</string>
+    <string name="nucleo">Nucleo:</string>
+    <string name="longitud">Longitud</string>
+    <string name="back">Regresar a inicio</string>
+
+    <string name="Modo2">Activar/Desactivar modo oscuro:</string>
+    <string name="Modo3">Audio desactivado:</string>
+    <string name="Modo4">Audio activo:</string>
+    <string name="leyenda1">"Aceptar"</string>
+    <string name="titleError1">onFailure</string>
+    <string name="titleError2">response.isSuccessful is false</string>
+    <string name="error2">La respuesta de la solicitud HTTP no sea exitosa.. </string>
+    <string name="sinactor">Actor desconocido </string>
+    <string name="y">y</string>
+    <string name="sin">Desconocido</string>
+    <string name="sinestudiante">Nombre desconocido  </string>
+    <string name="sinpatronus">Patronus desconocido  </string>
+    <string name="singenero">Genero desconocido  </string>
+    <string name="sinespecie">Especie desconocida  </string>
+    <string name="sinhouse">Casa desconocida </string>
+    <string name="creador">Mendoza de la Vega Dulce E.</string>
+    <string name="creador1">Lázaro Martínez A. Ariadna</string>
+    <string name="version1">Versión 1</string>
+    <string name="from">de</string>
+    <string name="welcome">Bienvenidos</string>
+    <string name="conf">Configuración:</string>
+    <string name="version2">Pixel 4a API 30</string>
+
+    <string name="error1">Error durante la ejecución de la llamada. </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_splash">Splash</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
