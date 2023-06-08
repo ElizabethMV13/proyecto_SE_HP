@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <rotate
+            android:drawable="@drawable/carga2"
+            android:fromDegrees="0"
+            android:toDegrees="360"
+            android:duration="3000" />
+    </item>
+
+    <item android:drawable="@drawable/carga2" />
+
+</level-list>
